@@ -1,0 +1,66 @@
+.style-h1 {
+  padding: 50px;
+  font-size: 60px;
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+
+.style-h2 {
+  padding-bottom: 30px;
+  font-weight: lighter;
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+.style-cd {
+  height: 850px;
+  padding: 10px;
+  background-color: #f0f8ff;
+  box-shadow: 5px 10px #6495ed;
+}
+
+.style-card {
+  font-family: "Quicksand", sans-serif;
+}
+
+.style-country {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.syle-img {
+  height: 300px;
+  border: 2px solid gray;
+}
+
+.nav {
+  height: 40px;
+  background-color: #00bfff;
+}
+.nav-style {
+  display: contents;
+}
+
+.style-cd-form {
+  box-shadow: 5px 10px #6495ed;
+  width: 500px;
+  margin: 0 35%;
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.teste {
+  box-shadow: 7px 12px #6495ed;
+}
+
+.viagem-programada {
+  box-shadow: 5px 10px #6495ed;
+}
+
+.footer {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 30px;
+  font-family: "Quicksand, sans-serif";
+}
